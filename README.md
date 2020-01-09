@@ -28,6 +28,7 @@
 - A Mean Field View of the Landscape of Two-Layers Neural Networks ([paper](https://arxiv.org/abs/1804.06561))
 - On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport ([paper](http://papers.nips.cc/paper/7567-on-the-global-convergence-of-gradient-descent-for-over-parameterized-models-using-optimal-transport))
 - Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel ([paper](https://arxiv.org/abs/1810.05369v3))
+- Mean-Field Langevin Dynamics and Energy Landscape of Neural Networks ([paper](https://arxiv.org/abs/1905.07769))
 - A Mean-Field Limit for Certain Deep Neural Networks ([paper](https://arxiv.org/abs/1906.00193))
 - Mean Field Limit of the Learning Dynamics of Multilayer Neural Networks ([paper](https://arxiv.org/abs/1902.02880))
 
