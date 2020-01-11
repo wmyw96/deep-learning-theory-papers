@@ -25,6 +25,7 @@
 ### Evaluation of Theory
 
 - Truth or Backpropaganda? An Empirical Investigation of Deep Learning Theory ([paper](https://arxiv.org/abs/1910.00359))
+- Disentangling feature and lazy learning in deep neural networks: an empirical study ([paper](https://arxiv.org/abs/1906.08034))
 
 ## Training Dynamics
 
@@ -38,3 +39,13 @@
 - Mean Field Limit of the Learning Dynamics of Multilayer Neural Networks ([paper](https://arxiv.org/abs/1902.02880))
 
 ### Neural Tangent Kernel (Lazy Training)
+
+- On Lazy Training in Differentiable Programming ([paper](https://arxiv.org/abs/1812.07956))
+- Neural Tangent Kernel: Convergence and Generalization in Neural Networks ([paper](https://arxiv.org/abs/1806.07572))
+
+## Generative Models
+
+### GAN Training Dynamics
+
+- On the Limitations of First-Order Approximation in GAN Dynamics ([paper](http://proceedings.mlr.press/v80/li18d.html))
+- Gradient descent GAN optimization is locally stable ([paper](https://arxiv.org/abs/1706.04156))
