@@ -49,3 +49,7 @@
 
 - On the Limitations of First-Order Approximation in GAN Dynamics ([paper](http://proceedings.mlr.press/v80/li18d.html))
 - Gradient descent GAN optimization is locally stable ([paper](https://arxiv.org/abs/1706.04156))
+
+## AutoEncoder
+
+- Loss Landscapes of Regularized Linear Autoencoders ([paper](https://arxiv.org/pdf/1901.08168))
