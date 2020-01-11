@@ -48,6 +48,24 @@
 - On Lazy Training in Differentiable Programming ([paper](https://arxiv.org/abs/1812.07956))
 - Neural Tangent Kernel: Convergence and Generalization in Neural Networks ([paper](https://arxiv.org/abs/1806.07572))
 
+## Loss Landscape Analysis
+
+### Spurious Valley / Local Minima
+
+- Spurious Valleys in One-hidden-layer Neural Network Optimization Landscapes ([paper](http://jmlr.org/papers/v20/18-674.html))
+- Local Minima in Training of Neural Networks ([paper](https://arxiv.org/abs/1611.06310))
+- Small Nonlinearities in Activation Functions Create Bad Local Minima in Neural Networks ([paper](https://arxiv.org/abs/1802.03487))
+
+## Analysis of Operators
+
+### Batch Normalization
+
+- How Does Batch Normalization Help Optimization? ([paper](https://arxiv.org/abs/1805.11604))
+
+### Residual Connection
+
+- Are ResNets Provably Better than Linear Predictors? ([paper](https://arxiv.org/abs/1907.03922))
+
 ## Generative Models
 
 ### GAN Training Dynamics
