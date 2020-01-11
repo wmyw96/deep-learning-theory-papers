@@ -22,6 +22,11 @@
 - Weight-space symmetry in deep networks gives rise to permutation saddles, connected by equal-loss valleys across the loss landscape ([paper](https://arxiv.org/abs/1907.02911))
 - Landscape Connectivity and Dropout Stability of SGD Solutions for Over-parameterized Neural Networks ([paper](https://arxiv.org/pdf/1912.10095))
 
+### Lottery Ticket Hypothesis
+
+- The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks ([paper](https://arxiv.org/abs/1803.03635))
+- Linear Mode Connecivity and the Lottery Ticket Hypothesis ([paper](https://arxiv.org/abs/1912.05671))
+
 ### Evaluation of Theory
 
 - Truth or Backpropaganda? An Empirical Investigation of Deep Learning Theory ([paper](https://arxiv.org/abs/1910.00359))
