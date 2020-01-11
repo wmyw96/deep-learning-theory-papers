@@ -16,6 +16,11 @@
 ### Mode Connectivity
 
 - Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs ([paper](https://arxiv.org/abs/1802.10026))
+- Large Scale Structure of Neural Network Loss Landscapes ([paper](https://arxiv.org/abs/1906.04724))
+- Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets ([paper](http://papers.nips.cc/paper/9602-explaining-landscape-connectivity-of-low-cost-solutions-for-multilayer-nets))
+- On Connected Sublevel Sets in Deep Learning ([paper](https://arxiv.org/abs/1901.07417))
+- Weight-space symmetry in deep networks gives rise to permutation saddles, connected by equal-loss valleys across the loss landscape ([paper](https://arxiv.org/abs/1907.02911))
+- Landscape Connectivity and Dropout Stability of SGD Solutions for Over-parameterized Neural Networks ([paper](https://arxiv.org/pdf/1912.10095))
 
 ### Evaluation of Theory
 
